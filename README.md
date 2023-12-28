@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brandon Baldwin
 - 👀 I’m interested in becoming an exceptional programmer and finding a job that excites me
-- 🌱 I’m currently in an online Computer Science bootcamp and am learning to be a Data Scientist
+- 🌱 I’m currently a certified Data Analyst/Data Scientist seeking job opportunities
 - 📫 How to reach me email: brandonbaldwin8597@gmail.com
 
 <!---
